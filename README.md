@@ -16,7 +16,7 @@ Please follow the setup instructions of OSWorld and VisualWebArena. We keep the 
 
 For OSWorld, the 50-task test set we are using is [here](./OSWorld/evaluation_examples/test_easy.json). For 72-task test set we are using is [here](./VisualWebArena/agent_easy/).
 
-### Code Structure
+## Code Structure
 
 We outline the files that we made significant changes.
 
