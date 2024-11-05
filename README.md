@@ -1,4 +1,4 @@
-# Attacking Vision-Language Computer Agents via Pop-ups
+# [Attacking Vision-Language Computer Agents via Pop-ups](https://arxiv.org/abs/2411.02391)
 
 *Yanzhe Zhang, Tao Yu, Diyi Yang*
 
